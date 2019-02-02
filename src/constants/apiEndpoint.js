@@ -1,0 +1,1 @@
+export const OPEN_TRIVIA = 'https://opentdb.com/api.php?amount=10&encode=url3986';
